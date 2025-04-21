@@ -69,7 +69,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/your‑username/ecommerce‑app.git
+https://github.com/RealGevorgian/ecommerce-app.git
 cd ecommerce‑app
 npm install
 ```
